@@ -1,0 +1,8 @@
+[
+  { "id": "tr_01", "name": "Aisha Kumar", "bio": "Frontend engineer and mentor", "avatarUrl": "/assets/trainer_placeholder.jpg" },
+  { "id": "tr_02", "name": "Liam Johnson", "bio": "UX researcher", "avatarUrl": "/assets/trainer_placeholder.jpg" },
+  { "id": "tr_03", "name": "Noah Patel", "bio": "Full-stack dev", "avatarUrl": "/assets/trainer_placeholder.jpg" },
+  { "id": "tr_04", "name": "Priya Singh", "bio": "Data engineer", "avatarUrl": "/assets/trainer_placeholder.jpg" },
+  { "id": "tr_05", "name": "Sofia Lee", "bio": "Design lead", "avatarUrl": "/assets/trainer_placeholder.jpg" },
+  { "id": "tr_06", "name": "Ethan Brown", "bio": "Cloud architect", "avatarUrl": "/assets/trainer_placeholder.jpg" }
+]

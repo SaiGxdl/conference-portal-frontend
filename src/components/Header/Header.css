@@ -1,0 +1,18 @@
+/* src/components/Header/Header.css */
+.header {
+  background: var(--color-surface);
+  border-bottom: 1px solid rgba(15,23,36,0.04);
+  position: sticky; top: 0; z-index: 40;
+}
+.header-inner {
+  display:flex; align-items:center; justify-content:space-between;
+  gap: 16px; padding: 14px 0;
+}
+.header-brand { font-weight: 800; letter-spacing: -0.2px; color: var(--color-text); font-size: 1.05rem; }
+.header-nav a { margin-right: 18px; color: var(--color-muted); font-weight: 500; text-decoration:none; padding:6px 8px; border-radius:8px; }
+.header-nav a.active, .header-nav a:hover { color: var(--color-text); background: rgba(79,70,229,0.06); }
+.header-controls { display:flex; gap: 12px; align-items:center; }
+.header .search { width: 320px; max-width: 42vw; }
+@media (max-width: 720px) {
+  .header-nav { display:none; } .header .search { width: 180px; }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id":"evt_001","title":"React Fundamentals Workshop","description":"Intro hooks, components, and state.","type":"Workshop","category":"Frontend","trainerId":"tr_01","trainerName":"Aisha Kumar","startDate":"2025-12-05T10:00:00.000Z","endDate":"2025-12-05T13:00:00.000Z","location":"Auditorium A","seatsTotal":40,"seatsBooked":28,"tags":["react","hooks","beginner"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_002","title":"Design Thinking Session","description":"Human-centered design and prototyping.","type":"Seminar","category":"UX","trainerId":"tr_02","trainerName":"Liam Johnson","startDate":"2025-12-08T14:00:00.000Z","endDate":"2025-12-08T16:00:00.000Z","location":"Room 301","seatsTotal":25,"seatsBooked":18,"tags":["ux","design"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_003","title":"Advanced TypeScript Patterns","description":"Deep dive into type-level programming.","type":"Workshop","category":"Dev","trainerId":"tr_03","trainerName":"Noah Patel","startDate":"2025-12-10T09:00:00.000Z","endDate":"2025-12-10T12:30:00.000Z","location":"Lab B","seatsTotal":30,"seatsBooked":30,"tags":["typescript","advanced"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_004","title":"Cloud Cost Optimization","description":"Best practices to reduce cloud bills.","type":"Talk","category":"Cloud","trainerId":"tr_06","trainerName":"Ethan Brown","startDate":"2025-12-12T11:00:00.000Z","endDate":"2025-12-12T12:00:00.000Z","location":"Auditorium B","seatsTotal":200,"seatsBooked":150,"tags":["cloud","cost"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_005","title":"Accessibility Basics","description":"Make apps accessible for everyone.","type":"Workshop","category":"Frontend","trainerId":"tr_05","trainerName":"Sofia Lee","startDate":"2025-12-14T10:00:00.000Z","endDate":"2025-12-14T12:00:00.000Z","location":"Room 102","seatsTotal":30,"seatsBooked":10,"tags":["a11y","ux"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_006","title":"Intro to Docker","description":"Containers 101.","type":"Workshop","category":"DevOps","trainerId":"tr_03","trainerName":"Noah Patel","startDate":"2025-12-16T09:30:00.000Z","endDate":"2025-12-16T12:30:00.000Z","location":"Lab A","seatsTotal":24,"seatsBooked":14,"tags":["docker","containers"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_007","title":"Design Systems at Scale","description":"Building reusable UI systems.","type":"Seminar","category":"Design","trainerId":"tr_05","trainerName":"Sofia Lee","startDate":"2025-12-18T13:00:00.000Z","endDate":"2025-12-18T15:00:00.000Z","location":"Room 301","seatsTotal":50,"seatsBooked":35,"tags":["design","systems"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_008","title":"Kubernetes Deep Dive","description":"Orchestration patterns and best practices.","type":"Workshop","category":"DevOps","trainerId":"tr_06","trainerName":"Ethan Brown","startDate":"2025-12-20T10:00:00.000Z","endDate":"2025-12-20T17:00:00.000Z","location":"Lab B","seatsTotal":20,"seatsBooked":19,"tags":["k8s","containers"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_009","title":"Data Visualization with D3","description":"Create interactive charts.","type":"Workshop","category":"Data","trainerId":"tr_04","trainerName":"Priya Singh","startDate":"2025-12-22T10:00:00.000Z","endDate":"2025-12-22T13:00:00.000Z","location":"Auditorium A","seatsTotal":30,"seatsBooked":5,"tags":["d3","charts"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_010","title":"React Performance Tuning","description":"Improve React app performance.","type":"Talk","category":"Frontend","trainerId":"tr_01","trainerName":"Aisha Kumar","startDate":"2025-12-23T14:00:00.000Z","endDate":"2025-12-23T15:30:00.000Z","location":"Room 101","seatsTotal":100,"seatsBooked":76,"tags":["react","performance"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_011","title":"Python for Data Science","description":"Intro to NumPy and pandas.","type":"Workshop","category":"Data","trainerId":"tr_04","trainerName":"Priya Singh","startDate":"2026-01-05T09:00:00.000Z","endDate":"2026-01-05T12:00:00.000Z","location":"Lab C","seatsTotal":30,"seatsBooked":8,"tags":["python","data"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_012","title":"Product Management 101","description":"Roadmapping and stakeholder management.","type":"Seminar","category":"Product","trainerId":"tr_02","trainerName":"Liam Johnson","startDate":"2026-01-07T11:00:00.000Z","endDate":"2026-01-07T13:00:00.000Z","location":"Room 201","seatsTotal":40,"seatsBooked":21,"tags":["product","pm"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_013","title":"GraphQL Crash Course","description":"Schemas, resolvers, and clients.","type":"Workshop","category":"Backend","trainerId":"tr_03","trainerName":"Noah Patel","startDate":"2026-01-10T10:00:00.000Z","endDate":"2026-01-10T15:00:00.000Z","location":"Lab A","seatsTotal":28,"seatsBooked":13,"tags":["graphql","api"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_014","title":"Machine Learning Primer","description":"Basic ML workflows.","type":"Talk","category":"ML","trainerId":"tr_04","trainerName":"Priya Singh","startDate":"2026-01-12T14:00:00.000Z","endDate":"2026-01-12T16:00:00.000Z","location":"Auditorium B","seatsTotal":300,"seatsBooked":190,"tags":["ml","ai"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_015","title":"Leadership Essentials","description":"Leading teams and feedback loops.","type":"Seminar","category":"Leadership","trainerId":"tr_02","trainerName":"Liam Johnson","startDate":"2026-01-15T09:30:00.000Z","endDate":"2026-01-15T12:00:00.000Z","location":"Room 101","seatsTotal":60,"seatsBooked":42,"tags":["leadership"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_016","title":"Mobile UI Patterns","description":"Designing for mobile-first experiences.","type":"Workshop","category":"Design","trainerId":"tr_05","trainerName":"Sofia Lee","startDate":"2026-01-18T10:00:00.000Z","endDate":"2026-01-18T13:00:00.000Z","location":"Room 103","seatsTotal":30,"seatsBooked":7,"tags":["mobile","ui"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_017","title":"Serverless Architecture","description":"Pros and cons of serverless.","type":"Talk","category":"Cloud","trainerId":"tr_06","trainerName":"Ethan Brown","startDate":"2026-01-20T11:00:00.000Z","endDate":"2026-01-20T12:00:00.000Z","location":"Auditorium A","seatsTotal":150,"seatsBooked":89,"tags":["serverless","cloud"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_018","title":"Security Fundamentals","description":"OWASP Top 10 and secure coding.","type":"Workshop","category":"Security","trainerId":"tr_03","trainerName":"Noah Patel","startDate":"2026-01-22T09:00:00.000Z","endDate":"2026-01-22T12:00:00.000Z","location":"Lab B","seatsTotal":40,"seatsBooked":18,"tags":["security"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_019","title":"Data Ethics and Privacy","description":"Responsible data practices.","type":"Seminar","category":"Data","trainerId":"tr_04","trainerName":"Priya Singh","startDate":"2026-01-24T14:00:00.000Z","endDate":"2026-01-24T16:00:00.000Z","location":"Room 202","seatsTotal":80,"seatsBooked":42,"tags":["ethics","privacy"],"imageUrl":"/assets/event_placeholder.jpg"
+  },
+  {
+    "id":"evt_020","title":"Career Growth at Scale","description":"Mentorship, leveling, and career paths.","type":"Talk","category":"Career","trainerId":"tr_02","trainerName":"Liam Johnson","startDate":"2026-01-26T10:00:00.000Z","endDate":"2026-01-26T11:30:00.000Z","location":"Room 101","seatsTotal":200,"seatsBooked":120,"tags":["career"],"imageUrl":"/assets/event_placeholder.jpg"
+  }
+]
